@@ -17,4 +17,4 @@ uninstall:
 	rm -f ${DESTDIR}${PREFIX}/${PROG}
 
 .PHONY: install uninstall
-1221
+122121
